@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+font
+{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+}
+
+.text{
+width:200px;
+height:40px;
+border-radius:15px;
+padding:10px 50px;
+font-size:large;
+margin-top:50px;
+font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+text-align:right;
+}
+fieldset
+{
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	width:40%;
+    border:solid thin black;
+	margin-top:8%;
+	border-radius:10px;
+	background-color:rgba(189,243,223,0.91);	
+}
+#btnid
+{
+    width:100px;
+	height:50px;
+	border-radius:10px;
+	margin-top:30px;	
+}
+.btn
+{
+	background:green;
+	color:#F1E9E9;
+}
+.btn:hover
+{
+
+	background:#3FB9DF;
+	cursor:pointer;
+}
